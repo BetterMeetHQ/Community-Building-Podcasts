@@ -2,4 +2,5 @@
 
 List of community builder podcasts.
 
-- [CommunityOps](https://open.spotify.com/show/2beTkGLf1twuJAasdlUBkL)
+- [Community Signal](https://www.communitysignal.com/)
+- [CommunityOps](https://open.spotify.com/show/2beTkGLf1twuJAasdlUBkL) (discontinued)
